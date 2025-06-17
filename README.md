@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tddt-stock-info-mcp-badge.png)](https://mseep.ai/app/tddt-stock-info-mcp)
+
 # Stock Info Service
 
 这是一个基于 FastMCP 的股票数据服务，提供了股票历史数据、基本面信息、新闻资讯等功能。
